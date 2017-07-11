@@ -1,0 +1,8 @@
+---
+
+# Configuration for Cosmetic plugins
+
+name1: Plot
+  ip1: pe.mc-i.org
+  port1: 19132
+...
